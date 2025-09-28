@@ -1,0 +1,29 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Build artifacts
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+
+# VS Code settings
+.vscode/
+c_cpp_properties.json
+launch.json
+tasks.json
+settings.json
+
+# CMake or Make build directories
+/build/
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Logs
+*.log
