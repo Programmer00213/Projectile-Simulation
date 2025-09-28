@@ -1,0 +1,3 @@
+D:/Learn/Programming Language/C/SDL/Simulation Folder/Projectile/build/CMakeFiles/main.dir
+D:/Learn/Programming Language/C/SDL/Simulation Folder/Projectile/build/CMakeFiles/edit_cache.dir
+D:/Learn/Programming Language/C/SDL/Simulation Folder/Projectile/build/CMakeFiles/rebuild_cache.dir
