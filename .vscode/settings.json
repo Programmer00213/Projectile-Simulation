@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "*.ejs": "html",
-        "*.py": "python",
-        "sdl.h": "c",
-        "sdl_input.h": "c",
-        "game.h": "c"
-    }
-}
